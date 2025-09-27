@@ -149,16 +149,16 @@ The app supports multiple input methods:
 
 | Source | Sample Data |
 |-------------|--------------|
-| ![Image1](task4\sampledata1.png) | ![Image2](task4\sampledata2.jpeg) |
+| ![Image1](sampledata1.png) | ![Image2](sampledata2.jpeg) |
 
 | Source | Web Scraping |
 |-------------|--------------|
-| ![Image1](task4\webscraping1.jpeg) | ![Image2](task4\webscraping2.jpeg) |
+| ![Image1](webscraping1.jpeg) | ![Image2](webscraping2.jpeg) |
 
 | Source | PDF |
 |-------------|--------------|
-| ![Image1](task4\pdf1.jpeg) | ![Image2](task4\pdf2.jpeg) |
+| ![Image1](pdf1.jpeg) | ![Image2](pdf2.jpeg) |
 
 | Source | Custom Text |
 |-------------|--------------|
-| ![Image1](task4\custom-text.jpeg) | ![Image2](task4\sampledata2.jpeg) |
+| ![Image1](custom-text.jpeg) | ![Image2](sampledata2.jpeg) |
