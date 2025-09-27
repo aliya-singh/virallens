@@ -162,6 +162,10 @@ The app supports multiple input methods:
 | ![Image1](pdf1.jpeg) | ![Image2](pdf2.jpeg) |
 
 **Custom Text**
-| Image 1 |
+| Image |
 |-------------|
 | ![Image1](custom-text.jpeg) |
+
+## ✨ Deployed Model (Hugging Face)
+
+### **[Neural Knowlege Explorer](https://huggingface.co/spaces/aliyasingh/neural-knowledge-explorer)**
