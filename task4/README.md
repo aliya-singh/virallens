@@ -146,26 +146,22 @@ The app supports multiple input methods:
 ```
 
 ## 📸 Screenshots
-| Sample Data |
-|-------------|--------------|
+**Sample Data**
 | Image 1 | Image 2 |
 |-------------|--------------|
 | ![Image1](sampledata1.png) | ![Image2](sampledata2.jpeg) |
 
-| Web Scraping |
-|-------------|--------------|
+**Web Scraping**
 | Image 1 | Image 2 |
 |-------------|--------------|
 | ![Image1](webscraping1.jpeg) | ![Image2](webscraping2.jpeg) |
 
-| PDF |
-|-------------|--------------|
+**PDF**
 | Image 1 | Image 2 |
 |-------------|--------------|
 | ![Image1](pdf1.jpeg) | ![Image2](pdf2.jpeg) |
 
-| Custom Text |
-|-------------|
+**Custom Text**
 | Image 1 |
 |-------------|
 | ![Image1](custom-text.jpeg) |
