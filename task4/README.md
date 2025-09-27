@@ -39,7 +39,7 @@ A powerful, lightweight **Retrieval-Augmented Generation (RAG)** system built wi
 
 1. **Clone the repository**
    ```bash
-   https://github.com/aliya-singh/virallens.git
+   git clone https://github.com/aliya-singh/virallens.git
    cd task4
    ```
 
