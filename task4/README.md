@@ -149,4 +149,4 @@ The app supports multiple input methods:
 
 | Source | Sample Data |
 |-------------|--------------|
-| ![Image1](sample-data1.jpeg) | ![Image2](sample-data1.jpeg) |
+| ![Image1](sampledata1.jpeg) | ![Image2](sampledata1.jpeg) |
