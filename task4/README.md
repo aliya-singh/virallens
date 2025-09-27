@@ -168,4 +168,4 @@ The app supports multiple input methods:
 
 ## ✨ Deployed Model (Hugging Face)
 
-### **[Neural Knowlege Explorer](https://huggingface.co/spaces/aliyasingh/neural-knowledge-explorer)**
+### Try it out **[Neural Knowlege Explorer](https://huggingface.co/spaces/aliyasingh/neural-knowledge-explorer)**
