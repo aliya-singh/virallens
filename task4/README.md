@@ -146,8 +146,8 @@ The app supports multiple input methods:
 ```
 
 ## 📸 Screenshots
-
-| Source | Sample Data |
+| Sample Data |
+| Image1 | Image2 |
 |-------------|--------------|
 | ![Image1](sampledata1.png) | ![Image2](sampledata2.jpeg) |
 
