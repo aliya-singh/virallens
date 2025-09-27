@@ -134,23 +134,3 @@ The RandomForest Regressor model has been trained and evaluated on laptop pricin
 | `laptopData.csv` | Training dataset |
 | `rf_model.pkl` | Serialized trained model |
 | `scaler.pkl` | Serialized feature scaler |
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
----
-
-⭐ **Star this repository if you found it helpful!**
